@@ -12,7 +12,7 @@ public class SandwitchShop {
         size2=8.95;
 
         String No;
-        No=("there will be nothing added ");
+        No=("there was nothing added ");
 
 
 
